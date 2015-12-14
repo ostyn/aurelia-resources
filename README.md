@@ -9,3 +9,4 @@ All of the useful Aurelia resources we can find
 * http://patrickwalters.net/
 * http://drdwilcox.blogspot.com/
 * http://hobbit-on-aurelia.net/
+* http://sean-hunter.io/
