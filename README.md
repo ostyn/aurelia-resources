@@ -3,6 +3,7 @@ All of the useful Aurelia resources we can find
 
 * http://blog.durandal.io/
 * http://aurelia.io/docs.html
+* https://github.com/aurelia/documentation/blob/master/English/docs.md
 * http://eisenbergeffect.bluespire.com/
 * http://www.danyow.net/
 * http://blog.aurelia-guides.com/
