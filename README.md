@@ -1,5 +1,5 @@
-# aurelia-blogs
-All of the useful Aurelia blogs we can find
+# aurelia-resources
+All of the useful Aurelia resources we can find
 
 * http://blog.durandal.io/
 * http://eisenbergeffect.bluespire.com/
