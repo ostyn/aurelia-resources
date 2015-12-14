@@ -17,3 +17,5 @@ All of the useful Aurelia resources we can find
 * http://hobbit-on-aurelia.net/
 * http://sean-hunter.io/
 * http://ilikekillnerds.com/category/javascript/aurelia/
+* http://blog.opinionatedapps.com/
+* http://nojaf.com/tag/aurelia/
