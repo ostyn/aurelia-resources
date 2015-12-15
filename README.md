@@ -1,3 +1,5 @@
+#RIP#
+Go here from now on: https://github.com/riddla/awesome-aurelia
 # aurelia-resources
 All of the useful Aurelia resources we can find
 
